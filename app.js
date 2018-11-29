@@ -112,15 +112,3 @@ function random() {
     
     });
 }
-function random() {
-    
-    fs.readFile("random.txt", "utf8", function(error, data) {
-        if (error) {
-            console.log(error);
-        } else {
-            
-            spotifyThis(data[1]);
-        }
-    
-    });
-}
