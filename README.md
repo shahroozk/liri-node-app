@@ -31,13 +31,19 @@ Retrieves song information for a track:
 ```
 node liri.js spotify-this-song "Show must Go On"
 ```
+![screenshot 26](https://user-images.githubusercontent.com/42070728/49246153-0b65d800-f3c9-11e8-91b4-97c17958bf45.png)
+
 ### Get Movie Info
 Retrieves movie information for a movie:
 ```
 node liri.js movie-this "Gladiator"
 ```
+![screenshot 27](https://user-images.githubusercontent.com/42070728/49246208-2afd0080-f3c9-11e8-9f43-acd320e37ba8.png)
+
 ### Get Random Info
 Gets random text inside a file and does what it says:
 ```
 node liri.js do-what-it-says
 ```
+![screenshot 28](https://user-images.githubusercontent.com/42070728/49246243-42d48480-f3c9-11e8-8093-390202f4ee70.png)
+
